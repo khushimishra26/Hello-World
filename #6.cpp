@@ -1,3 +1,5 @@
+//Implementation of looping statements(while) and conditional statements, to generate armstrong numbers; armstrong numbers are those whose sum of the cube of individual digits equals the number itself.
+//Eg: 153 = 1^3+5^3+3^3 = 153, thus, 153 is an armstrong number.
 #include <iostream>
 #include <cmath>
 using namespace std;
