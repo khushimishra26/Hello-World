@@ -1,1 +1,1 @@
-Hello, this is a sample text file through which the program can count the total number of words present here.
+Hello, this is a sample text file through which various types of file handling can be demonstrated. The codes can do stuff like read, write, count words etc in the file.
